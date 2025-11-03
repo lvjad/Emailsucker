@@ -58,4 +58,5 @@ for i in range(1, count + 1):
         time.sleep(delay_seconds)
 
 server.quit()
+
 print("\nDone. Check your inbox .")
